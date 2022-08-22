@@ -44,5 +44,4 @@
 - Allure
 - Java Faker
 
-## Author
-[PoyrazM](https://github.com/PoyrazM)
+## Author - [PoyrazM](https://github.com/PoyrazM)
