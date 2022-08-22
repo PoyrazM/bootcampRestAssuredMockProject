@@ -1,11 +1,4 @@
 # Mock API Project
-## Tech
-- Rest Assured
-- Lombok
-- TestNG
-- Allure
-- Java Faker
-
 
 ## AllGrocery Api
 ### AllGrocery endpointi için servis oluşturuldu.
@@ -44,7 +37,12 @@
 ![allureMock](https://user-images.githubusercontent.com/105527159/185823643-8cd7110f-c433-4f97-8ef8-cdbe5a665cc9.PNG)
 ![allureMock2](https://user-images.githubusercontent.com/105527159/185823693-b4784835-46e1-4128-ab0d-e40436155f68.PNG)
 
-
+## Tech
+- Rest Assured
+- Lombok
+- TestNG
+- Allure
+- Java Faker
 
 ## Author
 [PoyrazM](https://github.com/PoyrazM)
