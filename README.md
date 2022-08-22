@@ -1,4 +1,4 @@
-# Enuygun Selenium Project
+# Mock API Project
 ## Tech
 - Rest Assured
 - Lombok
